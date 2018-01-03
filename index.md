@@ -17,7 +17,7 @@ People Meet Paws allows you to connect with new people that share the same dog i
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](src)
+![Image](src: dogg.jpg )
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
